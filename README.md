@@ -33,6 +33,13 @@ $ yarn build
 $ yarn start
 ```
 
+Notice: If you haven't installed yarn, you should install it first:
+```
+npm install yarn -g
+```
+
+If you get failed at the first step(yarn install), don't worry, you can continue the remaining commands and they will work fine.
+
 ## Misc
 
 A list of webgl libraries : https://gist.github.com/dmnsgn/76878ba6903cf15789b712464875cfdc
